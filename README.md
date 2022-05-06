@@ -1,4 +1,4 @@
-# COP-3223: Intro to C coding
+# COP-3223: Intro to C coding [C]
 UCF Spring 2021
 
 
